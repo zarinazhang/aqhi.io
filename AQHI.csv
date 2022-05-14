@@ -1,0 +1,249 @@
+Date,District,Time,AQHI
+20200101,Causeway Bay,9,3
+20200102,Causeway Bay,9,4
+20200103,Causeway Bay,9,4
+20200104,Causeway Bay,9,4
+20200105,Causeway Bay,9,3
+20200106,Causeway Bay,9,3
+20200107,Causeway Bay,9,4
+20200108,Causeway Bay,9,4
+20200109,Causeway Bay,9,4
+20200110,Causeway Bay,9,5
+20200111,Causeway Bay,9,4
+20200112,Causeway Bay,9,3
+20200113,Causeway Bay,9,3
+20200114,Causeway Bay,9,4
+20200115,Causeway Bay,9,4
+20200116,Causeway Bay,9,4
+20200117,Causeway Bay,9,3
+20200118,Causeway Bay,9,3
+20200119,Causeway Bay,9,3
+20200120,Causeway Bay,9,3
+20200121,Causeway Bay,9,4
+20200122,Causeway Bay,9,5
+20200123,Causeway Bay,9,4
+20200124,Causeway Bay,9,3
+20200125,Causeway Bay,9,3
+20200126,Causeway Bay,9,2
+20200127,Causeway Bay,9,2
+20200128,Causeway Bay,9,2
+20200129,Causeway Bay,9,3
+20200130,Causeway Bay,9,4
+20200131,Causeway Bay,9,4
+20200101,Central,9,3
+20200102,Central,9,4
+20200103,Central,9,4
+20200104,Central,9,4
+20200105,Central,9,3
+20200106,Central,9,4
+20200107,Central,9,4
+20200108,Central,9,4
+20200109,Central,9,5
+20200110,Central,9,5
+20200111,Central,9,4
+20200112,Central,9,3
+20200113,Central,9,3
+20200114,Central,9,4
+20200115,Central,9,4
+20200116,Central,9,4
+20200117,Central,9,3
+20200118,Central,9,3
+20200119,Central,9,3
+20200120,Central,9,4
+20200121,Central,9,4
+20200122,Central,9,5
+20200123,Central,9,4
+20200124,Central,9,3
+20200125,Central,9,3
+20200126,Central,9,2
+20200127,Central,9,2
+20200128,Central,9,3
+20200129,Central,9,3
+20200130,Central,9,4
+20200131,Central,9,4
+20200101,Mong Kok,9,3
+20200102,Mong Kok,9,3
+20200103,Mong Kok,9,3
+20200104,Mong Kok,9,4
+20200105,Mong Kok,9,3
+20200106,Mong Kok,9,4
+20200107,Mong Kok,9,4
+20200108,Mong Kok,9,4
+20200109,Mong Kok,9,4
+20200110,Mong Kok,9,4
+20200111,Mong Kok,9,4
+20200112,Mong Kok,9,2
+20200113,Mong Kok,9,3
+20200114,Mong Kok,9,4
+20200115,Mong Kok,9,4
+20200116,Mong Kok,9,4
+20200117,Mong Kok,9,3
+20200118,Mong Kok,9,3
+20200119,Mong Kok,9,3
+20200120,Mong Kok,9,3
+20200121,Mong Kok,9,4
+20200122,Mong Kok,9,5
+20200123,Mong Kok,9,4
+20200124,Mong Kok,9,3
+20200125,Mong Kok,9,3
+20200126,Mong Kok,9,1
+20200127,Mong Kok,9,2
+20200128,Mong Kok,9,2
+20200129,Mong Kok,9,3
+20200130,Mong Kok,9,3
+20200131,Mong Kok,9,4
+20200101,Tap Mun,9,3
+20200102,Tap Mun,9,3
+20200103,Tap Mun,9,3
+20200104,Tap Mun,9,2
+20200105,Tap Mun,9,3
+20200106,Tap Mun,9,3
+20200107,Tap Mun,9,2
+20200108,Tap Mun,9,2
+20200109,Tap Mun,9,4
+20200110,Tap Mun,9,4
+20200111,Tap Mun,9,4
+20200112,Tap Mun,9,2
+20200113,Tap Mun,9,2
+20200114,Tap Mun,9,4
+20200115,Tap Mun,9,4
+20200116,Tap Mun,9,4
+20200117,Tap Mun,9,2
+20200118,Tap Mun,9,2
+20200119,Tap Mun,9,3
+20200120,Tap Mun,9,2
+20200121,Tap Mun,9,4
+20200122,Tap Mun,9,4
+20200123,Tap Mun,9,3
+20200124,Tap Mun,9,3
+20200125,Tap Mun,9,3
+20200126,Tap Mun,9,1
+20200127,Tap Mun,9,2
+20200128,Tap Mun,9,2
+20200129,Tap Mun,9,3
+20200130,Tap Mun,9,3
+20200131,Tap Mun,9,4
+20200101,Tseung Kwan ,9,3
+20200102,Tseung Kwan ,9,3
+20200103,Tseung Kwan ,9,3
+20200104,Tseung Kwan ,9,3
+20200105,Tseung Kwan ,9,3
+20200106,Tseung Kwan ,9,3
+20200107,Tseung Kwan ,9,3
+20200108,Tseung Kwan ,9,3
+20200109,Tseung Kwan ,9,5
+20200110,Tseung Kwan ,9,4
+20200111,Tseung Kwan ,9,4
+20200112,Tseung Kwan ,9,2
+20200113,Tseung Kwan ,9,3
+20200114,Tseung Kwan ,9,4
+20200115,Tseung Kwan ,9,4
+20200116,Tseung Kwan ,9,4
+20200117,Tseung Kwan ,9,2
+20200118,Tseung Kwan ,9,3
+20200119,Tseung Kwan ,9,3
+20200120,Tseung Kwan ,9,3
+20200121,Tseung Kwan ,9,4
+20200122,Tseung Kwan ,9,4
+20200123,Tseung Kwan ,9,4
+20200124,Tseung Kwan ,9,3
+20200125,Tseung Kwan ,9,3
+20200126,Tseung Kwan ,9,1
+20200127,Tseung Kwan ,9,2
+20200128,Tseung Kwan ,9,2
+20200129,Tseung Kwan ,9,3
+20200130,Tseung Kwan ,9,3
+20200131,Tseung Kwan ,9,4
+20200101,Tsuen Wan,9,3
+20200102,Tsuen Wan,9,3
+20200103,Tsuen Wan,9,3
+20200104,Tsuen Wan,9,3
+20200105,Tsuen Wan,9,3
+20200106,Tsuen Wan,9,3
+20200107,Tsuen Wan,9,3
+20200108,Tsuen Wan,9,3
+20200109,Tsuen Wan,9,4
+20200110,Tsuen Wan,9,4
+20200111,Tsuen Wan,9,3
+20200112,Tsuen Wan,9,2
+20200113,Tsuen Wan,9,3
+20200114,Tsuen Wan,9,4
+20200115,Tsuen Wan,9,4
+20200116,Tsuen Wan,9,3
+20200117,Tsuen Wan,9,2
+20200118,Tsuen Wan,9,2
+20200119,Tsuen Wan,9,3
+20200120,Tsuen Wan,9,2
+20200121,Tsuen Wan,9,4
+20200122,Tsuen Wan,9,4
+20200123,Tsuen Wan,9,2
+20200124,Tsuen Wan,9,3
+20200125,Tsuen Wan,9,3
+20200126,Tsuen Wan,9,1
+20200127,Tsuen Wan,9,2
+20200128,Tsuen Wan,9,2
+20200129,Tsuen Wan,9,3
+20200130,Tsuen Wan,9,3
+20200131,Tsuen Wan,9,3
+20200101,Tuen Mun,9,3
+20200102,Tuen Mun,9,3
+20200103,Tuen Mun,9,3
+20200104,Tuen Mun,9,3
+20200105,Tuen Mun,9,4
+20200106,Tuen Mun,9,4
+20200107,Tuen Mun,9,3
+20200108,Tuen Mun,9,3
+20200109,Tuen Mun,9,4
+20200110,Tuen Mun,9,4
+20200111,Tuen Mun,9,3
+20200112,Tuen Mun,9,2
+20200113,Tuen Mun,9,3
+20200114,Tuen Mun,9,4
+20200115,Tuen Mun,9,4
+20200116,Tuen Mun,9,4
+20200117,Tuen Mun,9,3
+20200118,Tuen Mun,9,2
+20200119,Tuen Mun,9,3
+20200120,Tuen Mun,9,2
+20200121,Tuen Mun,9,3
+20200122,Tuen Mun,9,4
+20200123,Tuen Mun,9,3
+20200124,Tuen Mun,9,3
+20200125,Tuen Mun,9,3
+20200126,Tuen Mun,9,1
+20200127,Tuen Mun,9,2
+20200128,Tuen Mun,9,2
+20200129,Tuen Mun,9,3
+20200130,Tuen Mun,9,4
+20200131,Tuen Mun,9,4
+20200101,Yuen Long,9,3
+20200102,Yuen Long,9,3
+20200103,Yuen Long,9,3
+20200104,Yuen Long,9,3
+20200105,Yuen Long,9,3
+20200106,Yuen Long,9,4
+20200107,Yuen Long,9,3
+20200108,Yuen Long,9,3
+20200109,Yuen Long,9,4
+20200110,Yuen Long,9,4
+20200111,Yuen Long,9,3
+20200112,Yuen Long,9,2
+20200113,Yuen Long,9,3
+20200114,Yuen Long,9,4
+20200115,Yuen Long,9,4
+20200116,Yuen Long,9,3
+20200117,Yuen Long,9,2
+20200118,Yuen Long,9,2
+20200119,Yuen Long,9,3
+20200120,Yuen Long,9,2
+20200121,Yuen Long,9,3
+20200122,Yuen Long,9,4
+20200123,Yuen Long,9,3
+20200124,Yuen Long,9,2
+20200125,Yuen Long,9,3
+20200126,Yuen Long,9,1
+20200127,Yuen Long,9,2
+20200128,Yuen Long,9,2
+20200129,Yuen Long,9,3
+20200130,Yuen Long,9,3
+20200131,Yuen Long,9,3
